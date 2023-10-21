@@ -31,3 +31,5 @@ class CashRegister:
             self.total -= self.price
 
         return self.total    
+    
+    
